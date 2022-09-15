@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="localhost-snapshots" />
+      <option name="url" value="http://10.1.4.81:8082/artifactory/TUCO-snapshots-repo/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tuco_commons" />
+      <option name="name" value="localhost-commons" />
+      <option name="url" value="http://10.1.6.75:8081/artifactory/TUCO_commons_repo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central_maven" />
+      <option name="name" value="localhost-releases" />
+      <option name="url" value="https://repo1.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central_maven" />
+      <option name="name" value="localhost-releases" />
+      <option name="url" value="https://repo.maven.apache.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="releases" />
+      <option name="name" value="PEGASO-releases" />
+      <option name="url" value="http://10.1.4.81:8082/artifactory/TUCO_releases_repo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="bintray" />
+      <option name="url" value="http://jcenter.bintray.com" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tuco_commons" />
+      <option name="name" value="localhost-commons" />
+      <option name="url" value="http://10.1.4.81:8082/artifactory/TUCO_commons_repo" />
+    </remote-repository>
+  </component>
+</project>
